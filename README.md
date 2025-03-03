@@ -1,6 +1,6 @@
 # Budget Tracker & Expense Analyzer
 
-The **Budget Tracker & Expense Analyzer** is a Streamlit-based web application designed to help users monitor their spending habits, analyze trends, and receive recommendations for better financial management. Users can log transactions, categorize expenses, and get insights into their monthly savings or overspending. The tool is built using Python and incorporates Pandas for data handling, Streamlit for the user interface, and Pytest for testing functionalities.
+The **Budget Tracker & Expense Analyzer**  operates with a Streamlit foundation to enable users who want to better manage their financial habits by tracking expenses and receiving recommendations and advice. The system allows users to record transactions while assigning expense types so they can view monthly financial savings or spending statistics. This tool utilizes Python language with Pandas for data processing, together with Streamlit for its user interface and Pytest for testing system functions.
 
 ## Features
 - **User Authentication**: Requires users to enter a username and password to access their financial records.
