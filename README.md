@@ -40,11 +40,15 @@ To allow users to log transactions dynamically, we used **Streamlit’s session 
 ### Budget Analysis and Visualization
 For intuitive insights, a **bar chart visualization** was included to help users quickly understand their expense distribution. 
 
-## AI Usage and Academic Integrity
+## AI Usage 
 For this final project, AI-based tools such as ChatGPT, GitHub Copilot, CS50 duck, and Bing Chat were used as **assistive tools** to improve productivity. However, the **core implementation, structure, and logic of this project remain the user’s own work**. AI tools were utilized for:
 - Generating function structures and documentation.
 - Debugging issues related to Pandas and Streamlit.
 - Refining code efficiency and readability.
+- References
+  Chatgpt (2025) Budget tracker Analyses
+
+ChatGPT - Currency Converter Code. (2025). ChatGPT. https://chatgpt.com/share/67c64f19-eea8-8005-92c7-b836c7fdb3ad (ChatGPT - Currency Converter Code, 2025)
 
 All AI-assisted code has been reviewed and integrated in accordance with academic integrity guidelines. 
 
